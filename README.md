@@ -8,6 +8,10 @@
 | <kbd> .rb.rw  </kbd> | Initialize a railway builder |
 | <kbd> .rb.build </kbd> | Start building the railway |
 | <kbd> .rb.end </kbd> | Close all the initialized builders |
+| <kbd> .rb.block </kbd> | Set the floor block of the railway to the nearest dropped item |
+| <kbd> .rb.a1 </kbd> | Confirm railway builder direction |
+| <kbd> .rb.a2 </kbd> | Rotate railway builder |
+| <kbd> .rb.debug </kbd> | Forgot what this actually does |
 
 # FAQ
 ## 1. Why is it so shit
